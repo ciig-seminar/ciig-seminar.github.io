@@ -1,4 +1,5 @@
 ﻿Date,Speaker,Topic,Recording
+09-Nov-26,Keling Wang (Erasmus MC),"The more independent evidence, the more we should believe? On the nature, goals and reasoning process of causal triangulation","<a href=""https://youtu.be/RxhjbuXryS8?si=PIqEdnHQcpNtWpGW"">Video</a>"
 05-Oct-26,Torty Sivill (Decima),Explainability Isn't Enough: Getting Businesses To Ask Causal Questions,"<a href=""https://youtu.be/6VqvmxcFLVU?si=rOCh5JMXIwMfiBT8"">Video</a>"
 06-Jul-26,Harrison Hansford (UNSW Sydney),TARGETing transparency: reflections on developing a reporting guideline,"<a href=""https://youtu.be/j2NLtEttq08"">Video</a>"
 08-Jun-26,Vanessa Didelez (Leibniz Institute for Prevention Research & Epidemiology – BIPS),"Why we should rethink causal mediation, and what to do instead","<a href=""slides/2026-06-08_Vanessa_Didelez.pdf"" target=""_blank"">Slides</a>"
@@ -31,16 +32,16 @@
 26-Apr-23,Marco Piccininni (Charité - Universitätsmedizin Berlin),Should Cognitive Screening Tests be Corrected for Age and Education? Insights from a Causal Perspective,Not recorded
 17-Mar-23,Santtu Tikka (University of Jyväskylä),Causal effect identification from multiple incomplete data sources,"<a href=""https://youtu.be/kwjk8xwR-cI?feature=shared"" target=""_blank"">Video</a>"
 27-Feb-23,Anthony Webster (University of Oxford),"Causal attribution fractions, and the attribution of smoking and BMI to the landscape of disease incidence in UK Biobank","<a href=""https://youtu.be/5xaDz6KfMb8?feature=shared"" target=""_blank"">Video</a>"
-12-Dec-22,Matej Zečević (TU Darmstadt),Causal explanations of structural causal models,"<a href=""https://neildhir.github.io/CIIG/slides/MZ_slides_121222.pdf"" target=""_blank"">Slides</a>"
-28-Nov-22,Max Little (MIT & University of Birmingham),"GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference","<a href=""https://neildhir.github.io/CIIG/slides/GRAPL_ATI_Talk_2022.pdf"" target=""_blank"">Slides</a>"
-28-Feb-22,Kellyn Arnold (University of Leeds),The effects of lockdown timing on COVID-19 cases across Europe: A counterfactual modelling study ,"<a href=""https://neildhir.github.io/CIIG/slides/KA_slides_010322.pdf"" target=""_blank"">Slides</a>"
+12-Dec-22,Matej Zečević (TU Darmstadt),Causal explanations of structural causal models,Not recorded
+28-Nov-22,Max Little (MIT & University of Birmingham),"GRAPL: A computational library for nonparametric structural causal modelling, analysis and inference",Not recorded
+28-Feb-22,Kellyn Arnold (University of Leeds),The effects of lockdown timing on COVID-19 cases across Europe: A counterfactual modelling study ,Not recorded
 14-Feb-22,Qingyuan Zhao (University of Cambridge),Mendelian randomization: Old and new insights,"<a href=""https://www.statslab.cam.ac.uk/~qz280/talk/penn-biostat-2021/slides.pdf"" target=""_blank"">Slides</a>"
-31-Jan-22,Ciarán Gilligan-Lee (Spotify & University College London),Learning problems from the Causal Hierarchy ,"<a href=""https://neildhir.github.io/CIIG/slides/CL_slides_310122.pdf"" target=""_blank"">Slides</a>"
-17-Jan-22,Hana Chockler (CausaLens & King's College London),"Actual causality, responsibility, explanations, and fairness - a bird's eye view ","<a href=""https://neildhir.github.io/CIIG/slides/HC_slides_170122.pdf"" target=""_blank"">Slides</a>"
-13-Dec-21,Lewis Hammond (University of Oxford),Reasoning About Causality in Games,"<a href=""https://neildhir.github.io/CIIG/slides/LH_slides_131221.pdf"" target=""_blank"">Slides</a>"
+31-Jan-22,Ciarán Gilligan-Lee (Spotify & University College London),Learning problems from the Causal Hierarchy ,Not recorded
+17-Jan-22,Hana Chockler (CausaLens & King's College London),"Actual causality, responsibility, explanations, and fairness - a bird's eye view ",Not recorded
+13-Dec-21,Lewis Hammond (University of Oxford),Reasoning About Causality in Games,Not recorded
 06-Dec-21,Nicola Branchini (University of Edinburgh),Causal Entropy Optimization,Not recorded
 29-Nov-21,Silvia Chiappa & Alan Malek (DeepMind),Selecting the Asymptotically Best Causal Effect Estimator with Multi-Armed Bandits,Not recorded
-15-Nov-21,Virginia Aglietti (DeepMind),Dynamic Causal Bayesian Optimization,"<a href=""https://neildhir.github.io/CIIG/slides/VA_slides_151121.pdf"" target=""_blank"">Slides</a>"
-08-Nov-21,Johannes Textor (Radboud University),How to Test DAG Models,"<a href=""https://neildhir.github.io/CIIG/slides/JT_slides_081121.pdf"" target=""_blank"">Slides</a>"
+15-Nov-21,Virginia Aglietti (DeepMind),Dynamic Causal Bayesian Optimization,Not recorded
+08-Nov-21,Johannes Textor (Radboud University),How to Test DAG Models,Not recorded
 25-Oct-21,Jonathan Richens (DeepMind),Counterfactual harm,Not recorded
-18-Oct-21,Ricardo Silva (University College London),A New Class of Algorithms for Bounding Causal Effects,"<a href=""https://neildhir.github.io/CIIG/slides/RS_slides_181021.pdf"" target=""_blank"">Slides</a>"
+18-Oct-21,Ricardo Silva (University College London),A New Class of Algorithms for Bounding Causal Effects,Not recorded
